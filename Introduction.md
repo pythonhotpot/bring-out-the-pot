@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pythonhotpot
+- 👋 Hi, I’m Mai Pham, an MSBA student at University of San Diego
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning business analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @pythonhotpot
+- 📫 Reach me @pythonhotpot
 - ⚡ Fun fact: ...
 
 <!---
